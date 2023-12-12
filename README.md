@@ -9,7 +9,8 @@
 <br>
 
 <!--- about section start --->
-<h1>print("Hello, World")</h1>
+# < Hello, World />
+![](https://komarev.com/ghpvc/?username=progdagi&label=PROFILE+VIEWS)
 
 Are you looking for a reliable and passionate Python developer to bring your projects to life? Look no further! With over a year of hands-on experience and certified expertise in web scraping, I am here to offer you top-notch solutions.
 
@@ -159,7 +160,7 @@ Let's discuss your unique project needs, whether it's web scraping, data extract
 <!--- contact list section end --->
 
 
-<!--- outro section start --->
+<!--- outro section start ---->
 <div align="center" style="margin-top: 5px;">
 @ProgDagi: "Thanks for visiting!"
 </div>
